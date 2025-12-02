@@ -1,10 +1,10 @@
-# 🧑‍💻 Portafolio Personal - Julio Hidalgo Jara (JHJ)
+# <title>🧑‍💻 Portafolio Personal - Julio Hidalgo Jara (JHJ)</title>
 
-Este repositorio contiene el código fuente completo de mi **portafolio personal profesional**, desarrollado con HTML5, CSS3, JavaScript y la metodología BEM. Está orientado a presentar mi experiencia como **Desarrollador Frontend** e **Ingeniero en Informática** desde El Quisco, Chile.
+<body>Este repositorio contiene el código fuente completo de mi **portafolio personal profesional**, desarrollado con HTML5, CSS3, JavaScript y la metodología BEM. Está orientado a presentar mi experiencia como **Desarrollador Frontend** e **Ingeniero en Informática** desde El Quisco, Chile.
 
 ---
 
-## 📌 Características principales
+## $(function () { 📌 Características principales
 
 - ✅ Diseño responsive adaptado a distintos dispositivos.
 - 🎨 Interfaz UI moderna con colores, tipografías y animaciones personalizadas.
@@ -14,17 +14,19 @@ Este repositorio contiene el código fuente completo de mi **portafolio personal
 - 📬 Formulario de contacto funcional (con validaciones integradas).
 - 🌐 Redes sociales visibles y con colores corporativos personalizados.
 
+});
 ---
 
-## 🌍 Vista previa
+## [ 🌍 Vista previa
 
 ![Preview](img/faces/6.jpg)
 
-Puedes ver una vista previa local abriendo el archivo `index.html` en tu navegador.
+Puedes ver una vista previa local abriendo el archivo `index.html` en tu navegador. 
 
+]
 ---
 
-## 🧱 Estructura de carpetas
+## ( ' 🧱 Estructura de carpetas ' )
 
 📁 project-root/
 ├── css/
@@ -41,7 +43,7 @@ Puedes ver una vista previa local abriendo el archivo `index.html` en tu navegad
 ├── prices.html → Servicios freelance
 ├── Portafolio.html → Proyectos realizados
 ├── contact.html → Página de contacto
-└── favicon.ico → Ícono del navegador
+└── favicon.ico → Ícono del navegador  
 
 
 ---
