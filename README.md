@@ -61,8 +61,8 @@
 ---
 
 ## 📁 **Estructura del Proyecto**
-
-JulioHidalgo/
+```
+JulioHidalgoJara/
 ├─ assets/
 │ ├─ css/
 │ │ ├─ base/
@@ -86,6 +86,8 @@ JulioHidalgo/
 ├─ proyectos.html
 ├─ contacto.html
 └─ README.md
+```
+---
 
 ## 🚀 **Cómo empezar localmente**
 
@@ -106,44 +108,30 @@ code .   # si usas VS Code
 
 # 4️⃣ Abrir index.html en el navegador para ver el portafolio
 
-## [ 🌍 Vista previa
+```
+## 📞 **Contacto**
 
-![Preview](https://www.puntoserviciosweb.cl)
-
-Puedes ver una vista previa local abriendo el archivo `index.html` en tu navegador. 
-
-]
-
-
-🎨 Cómo personalizar
-<div align="center">
-🔧 Qué modificar	📍 Dónde	🎯 Por qué
-Tu Julio César Hidalgo Jara, Desarrollador Frontend| Ingeniero en Informática ,	index.html	| Javascript | React JS | Angular | Typescript | HTML | CSS | Sass | Node js | MongoDB | Mysql | Java | Springboot | Git | Scrum
-Proyectos del portafolio	assets/js/projects.js o secciones HTML	https://www.puntoserviciosweb.cl/
-Colores y tema visual	assets/css/utils/variables.css	Dar estilo personalizado
-Imágenes / fotos	assets/img/	Reemplazar con tus propias imágenes
-Texto de contacto / enlaces	HTML + JS	Permitir que te contacten
-</div>
-
-📄 Licencia
 <div align="center">
 
-Este proyecto está bajo la licencia MIT — libre para usar, editar y mejorar.
-
-</div>
-
-📞 Contacto & Conexiones
-<div align="center">
-Julio Hidalgo Jara
-
-Frontend Developer | Ingeniero en Informática | UI/UX Enthusiast
+### **Julio Hidalgo Jara**
+**Desarrollador Frontend** / **Ingeniero en Informática**
 
 <br>
 
-📧 Email: juliohidalgo@gmail.com
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliohidalgo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliohidalgojara-fullstackdeveloper/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/JulioHidalgo/JulioHidalgo)
+[![GitHub](https://img.shields.io/badge/🐱_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulioHidalgo)
 
-📞 Fono: +56 94761 8468
+## 🎖️ **Mis certificaciones (Credly)**
 
+[![Certificación 1 - JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.credly.com/badges/77fe768a-8d7a-4acf-afd6-31cf344f4605)
+
+[![Certificación 2 - React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://www.credly.com/badges/bc4d3b7e-9691-4215-be74-a1fdb1e1a896)
+
+[![Certificación 3 - MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.credly.com/badges/75f42d24-9835-4a96-a4da-f779a0220b2a)
+
+<br>
 <br>
 
 "Construyendo experiencias digitales con precisión, diseño y pasión."
