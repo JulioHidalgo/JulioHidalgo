@@ -14,14 +14,14 @@
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Click_Here-ff69b4?style=for-the-badge)](https://www.puntoserviciosweb.cl)
-[![Documentation](https://img.shields.io/badge/📚_Documentation-Read_Now-blue?style=for-the-badge)](https://github.com/JulioHidalgo/JulioHidalgo/wiki)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Click_Aquí-ff69b4?style=for-the-badge)](https://www.puntoserviciosweb.cl)
+[![Documentacion](https://img.shields.io/badge/📚_Documentation-Leer_Ahora-blue?style=for-the-badge)](https://github.com/JulioHidalgo/JulioHidalgo/wiki)
 
 </div>
 
 ---
 
-## ✨ **Core Features**
+## ✨ **Características Principales**
 
 <div align="center">
 
@@ -92,7 +92,7 @@ JulioHidalgoJara/
 ## 🚀 **Cómo empezar localmente**
 
 ### **Requisitos**
-- Git (opcional: Node.js para herramientas de construcción, si agregas alguna)
+- Git (opcional: Node.js )
 - Un navegador moderno (Chrome, Firefox, Edge)
 
 ### **Pasos**
