@@ -118,15 +118,8 @@ Retos	Retos organizados por carpetas reto-x.	HTML, CSS, JS	🔗 Abrir
 e-commerce	Tienda online funcional con carrito.	JavaScript, DOM	🔗 Abrir
 
 L5_Javascript	Ejercicios avanzados ES6+ y DOM.	JavaScript ES6+	🔗 Abrir
-🏷️ Badges de Acceso Rápido
-<div align="center">
 
-
-
-
-
-
-</div>
+``
 ---
 
 ## 🚀 **Cómo empezar localmente**
