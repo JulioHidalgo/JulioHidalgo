@@ -94,6 +94,7 @@ Esta sección reúne mis proyectos prácticos, actividades de aprendizaje y reto
 </div>
 
 🗂️ Repositorios Destacados
+
 # 1️⃣ Retos – Actividades y ejercicios
 
 📁 Contiene carpetas como reto-1, reto-2, reto-3… con ejercicios de HTML, CSS, JavaScript y lógica.
