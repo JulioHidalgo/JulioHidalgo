@@ -95,25 +95,23 @@ Esta sección reúne mis proyectos prácticos, actividades de aprendizaje y reto
 
 🗂️ Repositorios Destacados
 
-# 1️⃣ Retos – Actividades y ejercicios
+# 1️⃣ 🎯 [Retos – Actividades y ejercicios ](https://github.com/JulioHidalgo/Retos)
 
 📁 Contiene carpetas como reto-1, reto-2, reto-3… con ejercicios de HTML, CSS, JavaScript y lógica.
 
-# 2️⃣ E-commerce – Tienda Online Completa
+# 2️⃣ 🛒 [E-commerce – Tienda Online Completa ](https://github.com/JulioHidalgo/e-commerce)
+
+   Proyecto de tienda online con carrito funcional, productos dinámicos y UI responsiva.
+
+# 3️⃣ ⚡ [L5 JavaScript – Ejercicios de Lógica y DOM ](https://github.com/JulioHidalgo/L5_Javascript)
+
+   Actividades avanzadas con JavaScript ES6+: arrays, objetos, eventos, DOM, asincronía y más.
+
+# 3️⃣ 🎮 [Buscaminas Frontend ](https://github.com/JulioHidalgo/Buscaminas-Frontend)
+
+  Juego clásico de Buscaminas desarrollado en Angular, con tablero 10x10, 15 minas ocultas, reglas originales implementadas y pruebas unitarias incluidas.
 
 
-🛒 Proyecto de tienda online con carrito funcional, productos dinámicos y UI responsiva.
-
-# 3️⃣ L5 JavaScript – Ejercicios de Lógica y DOM
-
-
-⚡ Actividades avanzadas con JavaScript ES6+: arrays, objetos, eventos, DOM, asincronía y más.
-
-📦 Resumen de Repositorios
-Repositorio	Descripción	Tecnologías
-Retos	Actividades organizadas por carpetas reto-x.	HTML, CSS, JS
-e-commerce	Tienda online con carrito y productos dinámicos.	JavaScript, DOM
-L5_Javascript	Lógica y ejercicios avanzados de ES6+.	JavaScript ES6+
 ---
 
 ## 🚀 **Cómo empezar localmente**
@@ -164,3 +162,5 @@ code .   # si usas VS Code
 "Construyendo experiencias digitales con precisión, diseño y pasión."
 
 ⭐ Si este proyecto te gusta, considera dejar una estrella. ⭐
+
+
