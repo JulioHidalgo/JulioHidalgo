@@ -20,7 +20,7 @@
 </div>
 
 ---
-
+``
 ## ✨ **Características Principales**
 
 <div align="center">
@@ -88,6 +88,32 @@ JulioHidalgoJara/
 └─ README.md
 ```
 ---
+
+📚 Repositorio de Actividades y Portafolio
+<div align="center">
+Esta sección reúne mis proyectos prácticos, actividades de aprendizaje y retos técnicos desarrollados como parte de mi crecimiento profesional como Desarrollador Frontend.
+</div>
+🗂️ Repositorios Destacados
+🔹 1. Retos – Actividades y ejercicios
+
+
+📁 Contiene carpetas como reto-1, reto-2, reto-3… con ejercicios de HTML, CSS, JavaScript y lógica.
+
+🔹 2. E-commerce – Tienda Online Completa
+
+
+🛒 Proyecto de tienda online con carrito funcional, productos dinámicos y UI responsiva.
+
+🔹 3. L5 JavaScript – Ejercicios de Lógica y DOM
+
+
+⚡ Actividades avanzadas con JavaScript ES6+: arrays, objetos, eventos, DOM, asincronía y más.
+
+📦 Resumen de Repositorios
+Repositorio	Descripción	Tecnologías
+Retos	Actividades organizadas por carpetas reto-x.	HTML, CSS, JS
+e-commerce	Tienda online con carrito y productos dinámicos.	JavaScript, DOM
+L5_Javascript	Lógica y ejercicios avanzados de ES6+.	JavaScript ES6+
 
 ## 🚀 **Cómo empezar localmente**
 
