@@ -107,9 +107,13 @@ Esta sección reúne mis proyectos prácticos, actividades de aprendizaje y reto
 
    Actividades avanzadas con JavaScript ES6+: arrays, objetos, eventos, DOM, asincronía y más.
 
-# 3️⃣ 🎮 [Buscaminas Frontend ](https://github.com/JulioHidalgo/Buscaminas-Frontend)
+# 4️⃣ 🎮 [Buscaminas Frontend ](https://github.com/JulioHidalgo/Buscaminas-Frontend)
 
   Juego clásico de Buscaminas desarrollado en Angular, con tablero 10x10, 15 minas ocultas, reglas originales implementadas y pruebas unitarias incluidas.
+
+# 5️⃣ 🐱 [Juego Clásico "El Gato" ](https://github.com/JulioHidalgo/Juego_Gato)
+
+  Juego Clásico de el gato de X versus O , creado en html, css y Javascript.
 
 
 ---
