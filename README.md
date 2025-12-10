@@ -88,38 +88,31 @@ JulioHidalgoJara/
 └─ README.md
 ```
 ---
-
-📚 Repositorio de Actividades y Portafolio
+## 📚 **Repositorio de Actividades y Portafolio**
 <div align="center">
-Listado de mis repositorios más importantes, organizados por tipo de proyecto, acompañados de sus badges e información clave.
+Esta sección reúne mis proyectos prácticos, actividades de aprendizaje y retos técnicos desarrollados como parte de mi crecimiento profesional como Desarrollador Frontend.
 </div>
+
 🗂️ Repositorios Destacados
-<div align="center">
-🔹 Retos – Actividades y Ejercicios del Bootcamp
+# 1️⃣ Retos – Actividades y ejercicios
 
-Descripción:
-Carpeta con proyectos organizados por reto-1, reto-2, reto-3... Incluye ejercicios de HTML5, CSS3, JavaScript, formularios, layouts y lógica.
+📁 Contiene carpetas como reto-1, reto-2, reto-3… con ejercicios de HTML, CSS, JavaScript y lógica.
 
-🔹 E-commerce – Tienda Online Completa
+# 2️⃣ E-commerce – Tienda Online Completa
 
-Descripción:
-Proyecto completo de tienda online con carrito, productos dinámicos, estructura modular, manipulación del DOM y diseño responsive.
 
-🔹 L5 JavaScript – Lógica, DOM & ES6+
+🛒 Proyecto de tienda online con carrito funcional, productos dinámicos y UI responsiva.
 
-Descripción:
-Ejercicios avanzados de JavaScript moderno: arrays, objetos, funciones puras, asincronía, manipulación del DOM y eventos.
+# 3️⃣ L5 JavaScript – Ejercicios de Lógica y DOM
 
-</div>
+
+⚡ Actividades avanzadas con JavaScript ES6+: arrays, objetos, eventos, DOM, asincronía y más.
+
 📦 Resumen de Repositorios
-🗃️ Repositorio	📄 Descripción	🛠️ Tecnologías	🔗 Enlace
-Retos	Retos organizados por carpetas reto-x.	HTML, CSS, JS	🔗 Abrir
-
-e-commerce	Tienda online funcional con carrito.	JavaScript, DOM	🔗 Abrir
-
-L5_Javascript	Ejercicios avanzados ES6+ y DOM.	JavaScript ES6+	🔗 Abrir
-
-``
+Repositorio	Descripción	Tecnologías
+Retos	Actividades organizadas por carpetas reto-x.	HTML, CSS, JS
+e-commerce	Tienda online con carrito y productos dinámicos.	JavaScript, DOM
+L5_Javascript	Lógica y ejercicios avanzados de ES6+.	JavaScript ES6+
 ---
 
 ## 🚀 **Cómo empezar localmente**
