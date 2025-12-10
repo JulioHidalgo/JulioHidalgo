@@ -91,29 +91,43 @@ JulioHidalgoJara/
 
 📚 Repositorio de Actividades y Portafolio
 <div align="center">
-Esta sección reúne mis proyectos prácticos, actividades de aprendizaje y retos técnicos desarrollados como parte de mi crecimiento profesional como Desarrollador Frontend.
+Listado de mis repositorios más importantes, organizados por tipo de proyecto, acompañados de sus badges e información clave.
 </div>
 🗂️ Repositorios Destacados
-🔹 1. Retos – Actividades y ejercicios
+<div align="center">
+🔹 Retos – Actividades y Ejercicios del Bootcamp
 
+Descripción:
+Carpeta con proyectos organizados por reto-1, reto-2, reto-3... Incluye ejercicios de HTML5, CSS3, JavaScript, formularios, layouts y lógica.
 
-📁 Contiene carpetas como reto-1, reto-2, reto-3… con ejercicios de HTML, CSS, JavaScript y lógica.
+🔹 E-commerce – Tienda Online Completa
 
-🔹 2. E-commerce – Tienda Online Completa
+Descripción:
+Proyecto completo de tienda online con carrito, productos dinámicos, estructura modular, manipulación del DOM y diseño responsive.
 
+🔹 L5 JavaScript – Lógica, DOM & ES6+
 
-🛒 Proyecto de tienda online con carrito funcional, productos dinámicos y UI responsiva.
+Descripción:
+Ejercicios avanzados de JavaScript moderno: arrays, objetos, funciones puras, asincronía, manipulación del DOM y eventos.
 
-🔹 3. L5 JavaScript – Ejercicios de Lógica y DOM
-
-
-⚡ Actividades avanzadas con JavaScript ES6+: arrays, objetos, eventos, DOM, asincronía y más.
-
+</div>
 📦 Resumen de Repositorios
-Repositorio	Descripción	Tecnologías
-Retos	Actividades organizadas por carpetas reto-x.	HTML, CSS, JS
-e-commerce	Tienda online con carrito y productos dinámicos.	JavaScript, DOM
-L5_Javascript	Lógica y ejercicios avanzados de ES6+.	JavaScript ES6+
+🗃️ Repositorio	📄 Descripción	🛠️ Tecnologías	🔗 Enlace
+Retos	Retos organizados por carpetas reto-x.	HTML, CSS, JS	🔗 Abrir
+
+e-commerce	Tienda online funcional con carrito.	JavaScript, DOM	🔗 Abrir
+
+L5_Javascript	Ejercicios avanzados ES6+ y DOM.	JavaScript ES6+	🔗 Abrir
+🏷️ Badges de Acceso Rápido
+<div align="center">
+
+
+
+
+
+
+</div>
+---
 
 ## 🚀 **Cómo empezar localmente**
 
