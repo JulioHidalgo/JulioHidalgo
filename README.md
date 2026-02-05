@@ -119,6 +119,13 @@ Esta sección reúne mis proyectos prácticos, actividades de aprendizaje y reto
 
   Servicio que facilita la información entregada por el endpoint de ghibli mostrandola en una tabla.
 
+# ​7️⃣​ 🔥 [Reto_Canvas ](https://github.com/JulioHidalgo/Reto_canvas)
+
+  Un objeto de la clase Canvas dibuja a un objeto de la clase Rectangulo a medida que vas marcando.
+
+
+  
+
 
 ---
 
