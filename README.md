@@ -115,6 +115,10 @@ Esta sección reúne mis proyectos prácticos, actividades de aprendizaje y reto
 
   Juego Clásico de el gato de X versus O , creado en html, css y Javascript.
 
+# ​6️⃣​ 🔥 [Ghibli Api ](https://github.com/JulioHidalgo/Ghibli-api)
+
+  Servicio que facilita la información entregada por el endpoint de ghibli mostrandola en una tabla.
+
 
 ---
 
