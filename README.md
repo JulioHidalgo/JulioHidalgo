@@ -123,9 +123,10 @@ Esta sección reúne mis proyectos prácticos, actividades de aprendizaje y reto
 
   Un objeto de la clase Canvas dibuja a un objeto de la clase Rectangulo a medida que vas marcando.
 
+# ​8️⃣​ 📊 [Consumo de Datos - Gestión de Usuarios ](https://github.com/JulioHidalgo/Consumo_GestionDeDatos)
 
+  Obtener datos desde un servicio web utilizando fetch con async/await mostrando la info en tabla y console.log
   
-
 
 ---
 
