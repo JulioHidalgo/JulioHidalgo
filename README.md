@@ -125,7 +125,13 @@ Esta sección reúne mis proyectos prácticos, actividades de aprendizaje y reto
 
 # ​8️⃣​ 📊 [Consumo de Datos - Gestión de Usuarios ](https://github.com/JulioHidalgo/Consumo_GestionDeDatos)
 
-  Obtener datos desde un servicio web utilizando fetch con async/await mostrando la info en tabla y console.log
+  Obtener datos desde un servicio web utilizando fetch con async/await mostrando la info en tabla y console.log             
+  
+# ​9️⃣​ 📊 [App de Clima en Vue 3 ](https://github.com/JulioHidalgo/weather)
+
+  Aplicación web del clima. Esta app web debe tomar información del clima desde una api de clima y mostrarla en un frontend mediante tarjetas
+indicando ciudad, clima de hoy y clima del día siguiente 
+
   
 
 ---
