@@ -133,7 +133,6 @@ Esta sección reúne mis proyectos prácticos, actividades de aprendizaje y reto
 indicando ciudad, clima de hoy y clima del día siguiente 
 
   
-
 ---
 
 ## 🚀 **Cómo empezar localmente**
@@ -166,6 +165,7 @@ code .   # si usas VS Code
 <br>
 
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliohidalgo@gmail.com)
+[![Teléfono](https://img.shields.io/badge/📞_Teléfono-2C2F59?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56941717832)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliohidalgojara-fullstackdeveloper/)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/JulioHidalgo/JulioHidalgo)
 [![GitHub](https://img.shields.io/badge/🐱_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulioHidalgo)
