@@ -135,8 +135,9 @@ indicando ciudad, clima de hoy y clima del día siguiente
 
 # ​🔟​​ 🛒 [Tienda con Login y usuarios en Firebase y Vue 3 ](https://github.com/JulioHidalgo/tienda-vf)
 
-  Aplicación web del clima. Esta app web debe tomar información del clima desde una api de clima y mostrarla en un frontend mediante tarjetas
-indicando ciudad, clima de hoy y clima del día siguiente 
+  Proyecto desarrollado con Vue 3, Vue Router, Vuex, Bootstrap y Firebase Firestore.
+La aplicación permite visualizar productos desde Firebase, agregarlos a un carrito de compras y generar un resumen de pedido, guardando la compra en la base de datos
+asi como agregar usuarios mediante un login.
 
   
 ---
@@ -161,7 +162,7 @@ code .   # si usas VS Code
 # 4️⃣ Abrir index.html en el navegador para ver el portafolio
 
 ```
-## 📞 **Contacto**
+## 📞 **Contacto** - +56 94761 8468
 
 <div align="center">
 
