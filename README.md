@@ -35,6 +35,7 @@
 | **SEO Básico** | Metatags + Open Graph | ✅ Activo |
 | **Dark/Light Mode** | CSS Variables (opcional) | 🟡 Próximamente |
 | **Formulario de Contacto** | HTML + JS | 🟡 Próximamente |
+| **Frameworks Javascript** | Angular - React - Vue.js | 🟡 Próximamente |
 
 </div>
 
@@ -127,7 +128,12 @@ Esta sección reúne mis proyectos prácticos, actividades de aprendizaje y reto
 
   Obtener datos desde un servicio web utilizando fetch con async/await mostrando la info en tabla y console.log             
   
-# ​9️⃣​ 📊 [App de Clima en Vue 3 ](https://github.com/JulioHidalgo/weather)
+# ​9️⃣​ ⛈️​​ [App de Clima en Vue 3 ](https://github.com/JulioHidalgo/weather)
+
+  Aplicación web del clima. Esta app web debe tomar información del clima desde una api de clima y mostrarla en un frontend mediante tarjetas
+indicando ciudad, clima de hoy y clima del día siguiente 
+
+# ​🔟​​ 🛒 [Tienda con Login y usuarios en Firebase y Vue 3 ](https://github.com/JulioHidalgo/tienda-vf)
 
   Aplicación web del clima. Esta app web debe tomar información del clima desde una api de clima y mostrarla en un frontend mediante tarjetas
 indicando ciudad, clima de hoy y clima del día siguiente 
