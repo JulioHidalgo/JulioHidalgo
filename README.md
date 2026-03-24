@@ -139,7 +139,12 @@ indicando ciudad, clima de hoy y clima del día siguiente
 La aplicación permite visualizar productos desde Firebase, agregarlos a un carrito de compras y generar un resumen de pedido, guardando la compra en la base de datos
 asi como agregar usuarios mediante un login.
 
-  
+ # ​1️⃣​1️⃣​​​ 🛒 [Proyecto de sitio web de noticias y servicios con panel de administración y login de usuarios. ](https://github.com/JulioHidalgo/puntoserviciosweb)
+
+Aplicación web basada en Nuxt 3 + TypeScript que permite: Mostrar noticias y servicios, Registro e inicio de sesión de usuarios con Firebase Authentication,
+Publicación y gestión de noticias por administradores.Comentarios por noticia (Firestore).Historial de noticias vistas por usuario (Firestore).
+Almacenamiento de imágenes en Firebase Storage.
+
 ---
 
 ## 🚀 **Cómo empezar localmente**
